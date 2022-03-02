@@ -1,0 +1,6 @@
+[submodule "amihome-afnet"]
+	path = amihome-afnet
+	url = git@github.com:mgavinr/amihome-afnet.git
+[submodule "afnet"]
+	path = afnet
+	url = git@github.com:mgavinr/amihome-afnet.git
